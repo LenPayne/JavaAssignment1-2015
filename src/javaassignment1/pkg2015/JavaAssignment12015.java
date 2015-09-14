@@ -33,7 +33,7 @@ public class JavaAssignment12015 {
          * Vancouver Salary - $82k
          * Waterloo Salary - $80k
          * 
-         * Testo Changeo!
+         * Testo Changeo 2!
          */
                 
     }
